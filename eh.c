@@ -83,7 +83,7 @@ int main(void) {
     XFlush(display);
 
     XSelectInput(display, window, (KeyPressMask | ExposureMask));
-        while (!quit) {
+    while (!quit) {
         XNextEvent(display, &event);
         
         XWindowAttributes attrs = {0};
