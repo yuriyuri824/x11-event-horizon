@@ -1,4 +1,7 @@
-/* Inspired by https://cdn.xcancel.com/pic/orig/B6AAD0F330486/media%2FGlOmPxqWgAA6G4U.png */
+/*
+    Original Equation by XorDev:
+    https://x.com/XorDev/status/1897042877626421642
+*/
 
 #include <stdio.h>
 #include <stdbool.h>
