@@ -2,7 +2,7 @@
 
 ![screenshot](./screenshot.png)
 
-Just a Event horizon.
+Just an Event horizon.
 
 ## How to Build ?
 ```console
